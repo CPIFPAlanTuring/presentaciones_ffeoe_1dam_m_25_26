@@ -37,7 +37,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/ld_quantum.png" height="28" alt="LD Quantum" /> | LD Quantum SL | Ruiz Martín, Samuel<br>Trujillo Rojas, Miguel | *pendiente* |
 | <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Gutiérrez Castro, Jazmín | *pendiente* |
 | <img src="img/oposiciones_caminos.png" height="22" alt="Oposiciones Camino" /> | Oposiciones Camino | Álvarez Armijo, Marco | *pendiente* |
-| <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | García Vela, Eliel Jesús<br>Pagola Del Pino, Víctor | *pendiente* |
+| <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | García Vela, Eliel Jesús<br>Pagola Del Pino, Víctor | [*pendiente*](https://github.com/ElielJesusGarciaVela/PresentacionREWE) |
 | <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | Luque Villanueva, Santiago<br>Portillo Guerrero, Curro<br>Rodríguez Espinosa, Sergio | *pendiente* |
 
 *Alumnos sin entrega de repositorio / exposición este curso:* Arias García, Daniel; Jiménez Martín, María de la Paz; Lorenzo Bonilla, Jesús; Parra Moussaif, Ismael; Rodríguez Galiano, Juan Rolando; Sánchez Fernández, Ana Isabel.
