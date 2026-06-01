@@ -38,7 +38,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Gutiérrez Castro, Jazmín | [NTT Data](https://github.com/Haru-jzmPRG/Presentacion-Dual-NTT-Data-2026-Jazmin-Gutierrez.git) |
 | <img src="img/oposiciones_caminos.png" height="22" alt="Oposiciones Camino" /> | Oposiciones Camino | Álvarez Armijo, Marco | [OposicionesCamino](https://github.com/Maliketh4bc/presentacion-ffeoe-oposiciones-caminos) |
 | <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | García Vela, Eliel Jesús<br>Pagola Del Pino, Víctor | [Rewe](https://github.com/ElielJesusGarciaVela/PresentacionREWE) |
-| <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | Luque Villanueva, Santiago<br>Portillo Guerrero, Curro<br>Rodríguez Espinosa, Sergio | [SweetCode](https://github.com/SergioRE2007/practicas-dam-sweetcode) |
+| <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | Luque Villanueva, Santiago<br>Portillo Guerrero, Curro<br>Rodríguez Espinosa, Sergio | [SweetCode](https://github.com/CurroPG/Presentacion-Practicas-SweetCodeChef) |
 
 
 *Alumnos sin entrega de repositorio / exposición este curso:* Arias García, Daniel; Jiménez Martín, María de la Paz; Lorenzo Bonilla, Jesús; Parra Moussaif, Ismael; Rodríguez Galiano, Juan Rolando; Sánchez Fernández, Ana Isabel.
