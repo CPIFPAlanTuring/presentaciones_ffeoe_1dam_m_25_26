@@ -1,14 +1,13 @@
 # INFORMACIÓN PROVISIONAL
 
-# Presentaciones duales de 1º DAM (mañana) del curso 2025 / 2026
+# Presentaciones duales de 1º DAW (mañana) del curso 2025 / 2026
 
-Listado con enlaces a los **repositorios** de entrega y normas para las exposiciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) turno de mañana del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
+Listado con enlaces a los **repositorios** de entrega y normas para las exposiciones de alumnos duales de **1º DAW** (Desarrollo de Aplicaciones Web) turno de mañana del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
 
 ## Índice
 
 * [Listado con enlaces a los repositorios](#sec-horario)
-  * [1DAM mañana](#1dam)
-    
+  * [1DAW mañana](#1daw)
 * [Duración del vídeo](#sec-tiempo)
 * [Contenido de la presentación](#sec-contenido)
 * [Formato y entrega](#sec-formato)
@@ -22,26 +21,39 @@ La tabla está **agrupada por empresa**: cada fila es una **empresa** (o centro 
 
 Si en una empresa hay **varios participantes**, **comparten un solo repositorio** y **una sola URL** en la tabla. En el `README.md` (o en la estructura del repo) debe quedar **muy claro** qué corresponde a **cada persona**: enlace al **vídeo de la exposición de cada uno** y **descripción de la actividad de cada uno** en prácticas (tareas, temporalización, aportación individual, etc.), además de lo común a la empresa.
 
-### 1DAM
+### 1DAW
 
-La **fecha límite** para publicar en la tabla el enlace al repositorio la indicará tu **tutor de la formación dual** (o el departamento) en clase o por los canales habituales del curso.
+La **fecha límite para publicar en la tabla el enlace al repositorio será el jueves 4 de junio a las 23:59**.
 
 Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la palabra *pendiente* por la **URL del repositorio** (idealmente la raíz del repo, para que se vea el `README.md` al abrir el enlace). Si varios participantes comparten empresa, **cualquiera de ellos** puede actualizar esa celda o coordinarse para que figure un único enlace válido.
 
 | Logo | Empresa | Participantes | Enlace al repositorio |
 | :--: | :-- | :-- | :-- |
-| <img src="img/accenture.svg" height="18" alt="Accenture" /> | Accenture | Gutiérrez Fernández, Adrián | [Accenture](https://github.com/AdriGuFe/presentaciones_ffeoe_1dam_m_25_26.git) |
-| <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | Baena Urbaneja, Juan Manuel | [Altaid](https://github.com/JuanManuelBaena/Presentacion-Dual-Altaid-2026-Juan-Manuel-Baena.git) |
-| <img src="img/diverxia.svg" height="18" alt="Diverxia" /> | Diverxia | Sánchez Muñoz, Adrián | [Diverxia](https://github.com/asanmun1905/DiverxiaExperience.git) |
-| <img src="img/fixme.png" height="22" alt="FixMe" /> | FixMe | Fernández Rodríguez, Juan Manuel | [FixMe](https://github.com/Ju4nmaFd3z/Presentacion-Dual-Fix-Me-2026-Juanma-Fdez.git) |
-| <img src="img/ld_quantum.png" height="28" alt="LD Quantum" /> | LD Quantum SL | Ruiz Martín, Samuel<br>Trujillo Rojas, Miguel | [LDQuantum](https://github.com/Poio-o/practica-dual-ldquantum-1dam) |
-| <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Gutiérrez Castro, Jazmín | [NTT Data](https://github.com/Haru-jzmPRG/Presentacion-Dual-NTT-Data-2026-Jazmin-Gutierrez.git) |
-| <img src="img/oposiciones_caminos.png" height="22" alt="Oposiciones Camino" /> | Oposiciones Camino | Álvarez Armijo, Marco | [OposicionesCamino](https://github.com/Maliketh4bc/presentacion-ffeoe-oposiciones-caminos) |
-| <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | García Vela, Eliel Jesús<br>Pagola Del Pino, Víctor | [Rewe](https://github.com/ElielJesusGarciaVela/PresentacionREWE) |
-| <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | Luque Villanueva, Santiago<br>Portillo Guerrero, Curro<br>Rodríguez Espinosa, Sergio | [SweetCode](https://github.com/SergioRE2007/practicas-dam-sweetcode) |
+| <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | Quijada Alcaide, José Antonio | *pendiente* |
+| <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Doblas Mejías, José Carlos | *pendiente* |
+| <img src="img/navicom.jpg" height="18" alt="Navicom" /> | Navicom | Aragonés Martín, Carlos | *pendiente* |
+| <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | Agüera Cuadra, Alba<br>García Gálvez, Juan Antonio | https://github.com/albita-8/Presentaciones-duales-de-1-DAW-ma-ana-del-curso-2025-2026 |
+| <img src="img/ideanto.png" height="22" alt="Ideanto" /> | IDEANTO | Caballero Castillo, Juan | *pendiente* |
+| <img src="img/bettergy.png" height="22" alt="Bettergy" /> | Bettergy | Codes Sánchez, Alfredo<br>Montanéz Vega, Elena | https://github.com/AlfredoCodes-11/presentaciones_ffeoe_1daw_manana_2026.git |
+| <img src="img/viewnext.png" height="22" alt="Viewnext" /> | Viewnext | Cortes Bueno, José Yeray<br>Sánchez Martín, Isaac<br>Soria Zaitseva, Elisabet<br>Toledo Moreno, Rafael | https://github.com/esorzai503/presentaciones_ffeoe_1daw_manana_25_26.git |
+| <img src="img/autismo-sur.png" height="22" alt="Fundación Autismo Sur" /> | Fundación Autismo Sur | Frutos Ruiz, Álvaro | https://github.com/Afrurui/presentaciones_ffeoe_1daw_m_25_26 |
+| <img src="img/properly.png" height="22" alt="Properly" /> | Properly | García Domínguez, Andrés | *pendiente* |
+| <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Palmero Arrabal, Jesús | https://github.com/jpalarr0104/-practicas-daw-ada-2526- |
+| <img src="img/ada.jpg" height="22" alt="ADA" /> | ADA | Ruiz Herrera, Javier | https://github.com/jruiher341/presentaciones_ffeoe_1daw_m_25_26 |
+| <img src="img/ajemare.jpg" height="22" alt="AJEMARE" /> | AJEMARE | Santiago Escobar, Jorge Javier | *pendiente* |
+| <img src="img/windup.svg" height="22" alt="Windup" /> | Windup | Yáñez Solano, Ángel | https://github.com/Angel30042002/Presentacion_Dual_1DAW_Ma-ana_25-26 |
 
-
-*Alumnos sin entrega de repositorio / exposición este curso:* Arias García, Daniel; Jiménez Martín, María de la Paz; Lorenzo Bonilla, Jesús; Parra Moussaif, Ismael; Rodríguez Galiano, Juan Rolando; Sánchez Fernández, Ana Isabel.
+*Alumnos sin entrega de repositorio / exposición este curso:* 
+- Barrera López, Jesús
+- Mancebo Romero, Mario
+- Ocaña Piña, Paloma
+- Ortega Almendral, Sergio (pendiente PRL)
+- Payar Fernández, José David (pendiente PRL)
+- Río Cerezo, Salvador del
+- Rojas Aguilar, Javier (pendiente PRL)
+- Sánchez Escalona, José Manuel
+- Tovar Martín, Antonio
+- Vitos Parra, Adrián
 
 <a id="sec-tiempo"></a>
 
@@ -53,12 +65,11 @@ Los alumnos de la misma empresa deberán incluir en el vídeo una parte **común
 
 El material sobre la empresa (introducción, contexto) puede ser común para todos los alumnos que hayan realizado la formación dual en ella. Esa parte común y las partes individuales pueden estar en **un solo vídeo largo** o en **varios vídeos**; en cualquier caso, en el `README.md` del repositorio (compartido o no) debe poder localizarse **sin duda** el tramo o el enlace correspondiente a **cada alumno**.
 
-Ejemplo de temporización para el grupo de Luque, Portillo y Rodríguez Espinosa (empresa SweetCode), con **repositorio compartido**:
+Ejemplo de temporización para el grupo de Agüera Cuadra y García Gálvez (empresa REWE), con **repositorio compartido**:
 
-* Hasta 5 minutos: parte común de SweetCode
-* Hasta 5 minutos: parte individual de Santiago Luque Villanueva
-* Hasta 5 minutos: parte individual de Curro Portillo Guerrero
-* Hasta 5 minutos: parte individual de Sergio Rodríguez Espinosa
+* Hasta 5 minutos: parte común de REWE
+* Hasta 5 minutos: parte individual de Alba Agüera Cuadra
+* Hasta 5 minutos: parte individual de Juan Antonio García Gálvez
 
 <a id="sec-contenido"></a>
 
@@ -95,10 +106,5 @@ El vídeo debe respetar la [duración](#sec-tiempo) indicada (parte común de em
 El enlace al **repositorio de entrega** se publica en la **fila de la empresa** en esta tabla (repositorio único por empresa, compartido si hay varios participantes); **no** hay asistencia presencial al centro para presentar ni **turno de preguntas** en directo.
 
 El **profesorado** revisará el material **de forma no presencial** (repositorio, `README.md`, vídeos enlazados por alumno y anexos en el repo), en su tiempo y según los criterios y el calendario del departamento.
-
-<hr>
-
-Si te ha resultado útil este repositorio, por favor marca el repositorio con una estrella en GitHub. ¡Gracias!
-
 
 
