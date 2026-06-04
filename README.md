@@ -1,13 +1,13 @@
 # INFORMACIÓN PROVISIONAL
 
-# Presentaciones duales de 1º DAM (mañana) del curso 2025 / 2026
+# Presentaciones duales de 2º DAM (mañana) del curso 2025 / 2026
 
-Listado con enlaces a los **repositorios** de entrega y normas para las exposiciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma) turno de mañana del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
+Listado con enlaces a los **repositorios** de entrega y normas para las exposiciones de alumnos duales de **2º DAM** (Desarrollo de Aplicaciones Multiplataforma) turno de mañana del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
 
 ## Índice
 
 * [Listado con enlaces a los repositorios](#sec-horario)
-  * [1DAM mañana](#1dam)
+  * [2DAM mañana](#1dam)
     
 * [Duración del vídeo](#sec-tiempo)
 * [Contenido de la presentación](#sec-contenido)
@@ -22,26 +22,28 @@ La tabla está **agrupada por empresa**: cada fila es una **empresa** (o centro 
 
 Si en una empresa hay **varios participantes**, **comparten un solo repositorio** y **una sola URL** en la tabla. En el `README.md` (o en la estructura del repo) debe quedar **muy claro** qué corresponde a **cada persona**: enlace al **vídeo de la exposición de cada uno** y **descripción de la actividad de cada uno** en prácticas (tareas, temporalización, aportación individual, etc.), además de lo común a la empresa.
 
-### 1DAM
+### 2DAM
 
-La **fecha límite** para publicar en la tabla el enlace al repositorio la indicará tu **tutor de la formación dual** (o el departamento) en clase o por los canales habituales del curso.
+La **fecha límite** para publicar en la tabla el enlace al repositorio será el **jueves 4 de junio de 2026 a las 23:59 horas**.
 
 Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la palabra *pendiente* por la **URL del repositorio** (idealmente la raíz del repo, para que se vea el `README.md` al abrir el enlace). Si varios participantes comparten empresa, **cualquiera de ellos** puede actualizar esa celda o coordinarse para que figure un único enlace válido.
 
 | Logo | Empresa | Participantes | Enlace al repositorio |
 | :--: | :-- | :-- | :-- |
-| <img src="img/accenture.svg" height="18" alt="Accenture" /> | Accenture | Gutiérrez Fernández, Adrián | [Accenture](https://github.com/AdriGuFe/presentaciones_ffeoe_1dam_m_25_26.git) |
-| <img src="img/altaid.png" height="32" alt="Altaid Formación" /> | Altaid | Baena Urbaneja, Juan Manuel | [Altaid](https://github.com/JuanManuelBaena/Presentacion-Dual-Altaid-2026-Juan-Manuel-Baena.git) |
-| <img src="img/diverxia.svg" height="18" alt="Diverxia" /> | Diverxia | Sánchez Muñoz, Adrián | [Diverxia](https://github.com/asanmun1905/DiverxiaExperience.git) |
-| <img src="img/fixme.png" height="22" alt="FixMe" /> | FixMe | Fernández Rodríguez, Juan Manuel | [FixMe](https://github.com/Ju4nmaFd3z/Presentacion-Dual-Fix-Me-2026-Juanma-Fdez.git) |
-| <img src="img/ld_quantum.png" height="28" alt="LD Quantum" /> | LD Quantum SL | Ruiz Martín, Samuel<br>Trujillo Rojas, Miguel | [LDQuantum](https://github.com/Poio-o/practica-dual-ldquantum-1dam) |
-| <img src="img/nttdata.svg" height="18" alt="NTT Data" /> | NTT Data | Gutiérrez Castro, Jazmín | [NTT Data](https://github.com/Haru-jzmPRG/Presentacion-Dual-NTT-Data-2026-Jazmin-Gutierrez.git) |
-| <img src="img/oposiciones_caminos.png" height="22" alt="Oposiciones Camino" /> | Oposiciones Camino | Álvarez Armijo, Marco | [OposicionesCamino](https://github.com/Maliketh4bc/presentacion-ffeoe-oposiciones-caminos) |
-| <img src="img/rewe.svg" height="22" alt="REWE" /> | REWE | García Vela, Eliel Jesús<br>Pagola Del Pino, Víctor | [Rewe](https://github.com/ElielJesusGarciaVela/PresentacionREWE) |
-| <img src="img/sweetcode.svg" height="22" alt="SweetCode" /> | SweetCode | Luque Villanueva, Santiago<br>Portillo Guerrero, Curro<br>Rodríguez Espinosa, Sergio | [SweetCode](https://github.com/SergioRE2007/practicas-dam-sweetcode) |
-
-
-*Alumnos sin entrega de repositorio / exposición este curso:* Arias García, Daniel; Jiménez Martín, María de la Paz; Lorenzo Bonilla, Jesús; Parra Moussaif, Ismael; Rodríguez Galiano, Juan Rolando; Sánchez Fernández, Ana Isabel.
+| <img src="img/IUITLM.png" height="18" alt="Accenture" /> | IUITLM - UMA | Ballesteros Martínez, Javier<br>Maldonado Triana, Alberto  | [IUITLM UMA](https://github.com/albertoomaldonadoo/IUITLM-UMA-FFEOE-2DAM) |
+| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Bueno González, Salvador | https://github.com/sbuegonz00/Presentacion_Practicas_Erasmus_SalvadorBuenoGonzalez |
+| <img src="img/aliqindoi.png" height="18" alt="Aliqindoi" /> | Aliqindoi | Butrii, Sergii | [Aliqindoi](https://github.com/Sergiibut05/Presentaci-n-Dual-Aliqindoi-2DAM-Sergii-Butrii) |
+| <img src="img/erasmusplus.jpg" height="22" alt="Erasmus" /> | Erasmus+ | Cano Jiménez, Antonio Lorenzo<br>Romero Maldonado, Adrián | *pendiente* |
+| <img src="img/PROPERLY.png" height="28" alt="Properly" /> | Properly | Cobo Sánchez, Francisco de Asís | *pendiente* |
+| <img src="img/AngelsCaring.jpeg" height="18" alt="Angels Caring" /> | Angels Caring | Cristóbal Gómez, Hugo de | *pendiente* |
+| <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Diáñez Gómez, Guillermo | *pendiente* |
+| <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Domínguez González, José Antonio<br>Jiménez Muñoz, Álvaro | https://github.com/Almucero/Dual-ViewNext-2DAM |
+| <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | Faura Martín, Lucas<br>González Ortiz, María del Rosario | https://github.com/RosarioGonzalez06/Practicas-Accenture-2-DAM-2025-2026 |
+| <img src="img/ldquantum.jpeg" height="22" alt="LD Quantum" /> | LD Quantum | García Luque, Mario<br>García Ruiz, Samuel | https://github.com/Mariogarluu/Exposicion-Ld-Quantum |
+| <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Salvador | López González, Jose María | https://github.com/canlol3/Presentacion-Dual-Jos-Mar-a-2DAM |
+| <img src="img/NTT.png" height="22" alt="NTT-Data" /> | NTT-Data | Mora Mata, Ángela | https://github.com/angela1006/PracticasDual-NTTData-2025-2026 |
+| <img src="img/sipadan.png" height="22" alt="Sipadan" /> | Sipadan | Salces Alcaraz, Antonio | *pendiente* |
+| <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Vargas Berrocal, Ezequiel | *pendiente* |
 
 <a id="sec-tiempo"></a>
 
@@ -53,12 +55,12 @@ Los alumnos de la misma empresa deberán incluir en el vídeo una parte **común
 
 El material sobre la empresa (introducción, contexto) puede ser común para todos los alumnos que hayan realizado la formación dual en ella. Esa parte común y las partes individuales pueden estar en **un solo vídeo largo** o en **varios vídeos**; en cualquier caso, en el `README.md` del repositorio (compartido o no) debe poder localizarse **sin duda** el tramo o el enlace correspondiente a **cada alumno**.
 
-Ejemplo de temporización para el grupo de Luque, Portillo y Rodríguez Espinosa (empresa SweetCode), con **repositorio compartido**:
+Ejemplo de temporización para el grupo XXXX, con **repositorio compartido**:
 
-* Hasta 5 minutos: parte común de SweetCode
-* Hasta 5 minutos: parte individual de Santiago Luque Villanueva
-* Hasta 5 minutos: parte individual de Curro Portillo Guerrero
-* Hasta 5 minutos: parte individual de Sergio Rodríguez Espinosa
+* Hasta 5 minutos: parte común de la empresa
+* Hasta 5 minutos: parte individual del Alumno1
+* Hasta 5 minutos: parte individual de Alumno2
+* Hasta 5 minutos: parte individual de Alumno3
 
 <a id="sec-contenido"></a>
 
